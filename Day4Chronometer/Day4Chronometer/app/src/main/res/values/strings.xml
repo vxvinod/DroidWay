@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day4Chronometer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
