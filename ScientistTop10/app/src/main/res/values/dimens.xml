@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_layout_5dp">5dp</dimen>
+    <dimen name="layout_padding">5dp</dimen>
+    <dimen name="image_height">200dp</dimen>
+    <dimen name="label_size">18sp</dimen>
+    <dimen name="data_value_size">15sp</dimen>
+</resources>
